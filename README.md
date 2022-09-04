@@ -2,7 +2,7 @@
 
 
 ## **Description**
-As a play on *pay it forward*, this project aims to exhibit the positive ripple effect that people have on people's lives by documenting the expotential journey from my voiced expressions of gratitute for all to see @ [Say It Forward](https://www.hypewards.com/sayitforward).
+As a play on *pay it forward*, this project aims to exhibit the positive ripple effect that people have on people's lives by documenting the derivation from my voiced expressions of gratitute for all to see @ [Say It Forward](https://www.hypewards.com/sayitforward).
 
 ## **To-Do:**
 - [ ] Learn how to securely register users (ideally by phone number)

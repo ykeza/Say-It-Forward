@@ -5,9 +5,9 @@ A play on **pay it forward**, this project aims to exhibit the positive effect t
 
 ## **To-Do:**
 - [ ] Learn how to securely register users (ideally by phone number)
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] TBD
+- [ ] TBD
+- [ ] TBD
+- [ ] TBD
+- [ ] TBD
 

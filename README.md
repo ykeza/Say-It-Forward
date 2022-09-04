@@ -1,4 +1,4 @@
-# <img align="left" width="35px" src="https://github.com/ykeza/Say-It-Forward/blob/main/img/Hypewards.png?raw=true"> <span align="center"> Say It Forward: *A Social Experiment* </span> <img width="35px" src="https://github.com/ykeza/Say-It-Forward/blob/main/img/Hypewards.png?raw=true">
+# <img align="left" width="35px" src="https://github.com/ykeza/Say-It-Forward/blob/main/img/Hypewards.png?raw=true"> Say It Forward: *A Social Experiment*
 
 
 ## **Description**
